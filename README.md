@@ -1,9 +1,7 @@
-# <ins> WATS4930 Home Range Lab </ins>
+# <ins> Coyote Home Ranges in Western Utah </ins>
 ### This project displays the different home ranges of coyotes in Western Utah.
 #### It also has information on frequencies of coyotes.
 #### The data provides many different polygons of the home ranges.
-
-# Coyote Home Ranges in Western Utah
 
 ![General home ranges for Utah coyotes](homerange.png)
 
